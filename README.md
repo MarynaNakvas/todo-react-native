@@ -1,1 +1,1 @@
-# todo-react-native
+# Todo app in React Native
